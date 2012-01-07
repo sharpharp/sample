@@ -9,10 +9,16 @@ gem 'sqlite3'
 gem 'therubyracer'
 gem 'guard-spork'
 gem 'guard'
+<<<<<<< HEAD
 gem "libnotify", "~> 0.7.1"
 gem 'guard-livereload'
 gem 'rspec-rails'
 gem 'spork'
+=======
+
+
+
+>>>>>>> e276036441dc63aa5c845bed9d1fa7b7330421f9
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
